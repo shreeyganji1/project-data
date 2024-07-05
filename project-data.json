@@ -1,13 +1,13 @@
 [
-    { "Project_Name": "Phoenix", "ReleaseName": "Amber", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Ather", "ReleaseName": "Entanglement", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Quantum", "ReleaseName": "Radiance", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Nebula", "ReleaseName": "Dawn", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Quantum", "ReleaseName": "Apex", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Equinox", "ReleaseName": "Dawn", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Quantum", "ReleaseName": "Entanglement", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Nebula", "ReleaseName": "Apex", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Ather", "ReleaseName": "Radiance", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Equinox", "ReleaseName": "Amber", "OutputArtifactorylocation": 2.3, "Actions": true },
-    { "Project_Name": "Phoenix", "ReleaseName": "Apex", "OutputArtifactorylocation": 2.3, "Actions": true }
+    { "ProjectName": "Phoenix", "ReleaseName": "Amber", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Ather", "ReleaseName": "Entanglement", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Quantum", "ReleaseName": "Radiance", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Nebula", "ReleaseName": "Dawn", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Quantum", "ReleaseName": "Apex", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Equinox", "ReleaseName": "Dawn", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Quantum", "ReleaseName": "Entanglement", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Nebula", "ReleaseName": "Apex", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Ather", "ReleaseName": "Radiance", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Equinox", "ReleaseName": "Amber", "OutputArtifactorylocation": 2.3, "Actions": true },
+    { "ProjectName": "Phoenix", "ReleaseName": "Apex", "OutputArtifactorylocation": 2.3, "Actions": true }
 ]
